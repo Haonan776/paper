@@ -19,3 +19,7 @@
 
 **2025.10.12---遥感领域的开放词汇分割**
 1. [2025 arXiv] **Exploring Efffcient Open-Vocabulary Segmentation in the Remote Sensing**[[paper]]()
+   >笔记：输入：遥感图像、文本类别描述（DINO提取视觉特征、CLIP-TEXT处理文本特征、RI-CLIP处理旋转后的图像并提取视觉特征）
+   >疑问：1）为什么在RS-CMA不继续用DINO处理旋转并提取旋转图像的视觉特征,而是用RI-CLIP
+   >2) 在RS-Transfer 模块为什么要用中间层视觉特征
+   >3) 三大核心组件的每一个输入输出
