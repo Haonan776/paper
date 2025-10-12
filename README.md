@@ -4,11 +4,11 @@
 1. **Segment Anything**[[paper]](https://arxiv.org/pdf/2304.02643)
 
 **2025.10.03---遥感领域的开放词汇分割**
-2. [NeurIPS'25]**OpenWorldSAM： Extending SAM2 for Universal Image Segmentation with Language Prompts**[[paper]](https://arxiv.org/abs/2507.05427)>扩展SAM2以实现基于语言提示的通用图像分割
+1. [NeurIPS'25]**OpenWorldSAM： Extending SAM2 for Universal Image Segmentation with Language Prompts**[[paper]](https://arxiv.org/abs/2507.05427)>扩展SAM2以实现基于语言提示的通用图像分割
 >笔记：1）图像和文本输入到encoder中，再输入解码器中
       >2）引入位置平局打破机制，执行多实例分割
       >3）软提示，文本查询和图像特征提升定位精度
-3. [NeurIPS'25]**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**[[paper]](https://arxiv.org/abs/2505.15818)>面向指令的遥感目标识别的免训练框架
+2. [NeurIPS'25]**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**[[paper]](https://arxiv.org/abs/2505.15818)>面向指令的遥感目标识别的免训练框架
 >笔记：1）使用LVLM来解释用户指令并预测目标类别和计数
       >2）使用SAM2来生成掩码
       >3）使用CLIP来计算生成的目标类别和mask proposal之间的语义相似性
