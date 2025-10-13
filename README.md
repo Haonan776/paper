@@ -18,7 +18,7 @@
       >2）BIP换成图算法是否可行
 
 **2025.10.12---遥感领域的开放词汇分割**
-1. [2025 arXiv] **Exploring Efffcient Open-Vocabulary Segmentation in the Remote Sensing**[[paper]](）
+1. [2025 arXiv] **Exploring Efffcient Open-Vocabulary Segmentation in the Remote Sensing**[[paper]](https://github.com/LiBingyu01/RSKT-Seg）
    >笔记：
    >输入：遥感图像、文本类别描述（DINO提取视觉特征、CLIP-TEXT处理文本特征、RI-CLIP处理旋转后的图像并提取视觉特征）
    >
