@@ -24,6 +24,8 @@
 15. [2025 NIPS] **GTPBD: A Fine-Grained Global Terraced Parcel and Boundary Dataset** [[paper]](https://arxiv.org/abs/2507.14697) [[code]](https://github.com/Z-ZW-WXQ/GTPBD)
 16. [2025 TGRS] **Semantic Prototyping With CLIP for Few-Shot Object Detection in Remote Sensing Images** [[paper]](https://ieeexplore.ieee.org/document/10930588)
 17. [2025 Arxiv] **Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing** [[paper]](https://arxiv.org/pdf/2509.12040)[[code]](https://github.com/LiBingyu01/RSKT-Seg?tab=readme-ov-file)
+18. [2024 Arxiv] **Segearth-ov: Towards training-free open-vocabulary segmentation for remote sensing images**[[paper]](https://arxiv.org/pdf/2410.01768)
+19. [2025 Arxiv] **Open-vocabulary remote sensing image semantic segmentation.**[[paper]](https://arxiv.org/pdf/2409.07683)
 
 
 
