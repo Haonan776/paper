@@ -30,7 +30,7 @@
 
 **2025.10.13---SAM3模型**
 1. **SAM 3: Segment Anything with Concepts**[[paper]](https://openreview.net/pdf?id=r35clVtGzw)
-2. **SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images** [[paper]](https://arxiv.org/abs/2410.01768)
+2. [2025 CVPR]**SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images** [[paper]](https://arxiv.org/abs/2410.01768)
 >笔记：
 >输入：待进行分割的原始遥感图像、文本类别提示
 
@@ -39,3 +39,6 @@
 >流程：经CLIP输出低分辨率的全局token和局部token，做一个全局偏差消除得到去除了全局偏差的低分辨率特征，输入到训练好的SimFeatUp中得到高分辨率特征，和CLIP文本编码器输出的文本特征做相似度（视为每个像素的分类任务。），经过softmax函数处理，得到最终的高分辨率语义分割掩膜。
 
 >提出一个专门用于遥感的特征上采样器， 并提出了一种极其简单直接的方法来缓解 CLIP 的全局偏差问题，即执行局部和全局 token 的减法运算
+
+**2025.10.14---**
+1. [2025 Arxiv] **ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild** [[paper]](https://arxiv.org/abs/2501.13354) [[code]](https://github.com/waterdisappear/ATRNet-STAR)
