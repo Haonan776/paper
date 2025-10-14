@@ -26,6 +26,8 @@
 17. [2025 Arxiv] **Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing** [[paper]](https://arxiv.org/pdf/2509.12040)[[code]](https://github.com/LiBingyu01/RSKT-Seg?tab=readme-ov-file)
 18. [2024 Arxiv] **Segearth-ov: Towards training-free open-vocabulary segmentation for remote sensing images**[[paper]](https://arxiv.org/pdf/2410.01768)
 19. [2025 Arxiv] **Open-vocabulary remote sensing image semantic segmentation.**[[paper]](https://arxiv.org/pdf/2409.07683)
+20. [2025 Arxiv] **SegEarth-OV-2: Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images**[[paper]](https://arxiv.org/abs/2508.18067)[[code]](https://github.com/earth-insights/SegEarth-OV-2)
+21. [2025 Arxiv] **ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild** [[paper]](https://arxiv.org/abs/2501.13354) [[code]](https://github.com/waterdisappear/ATRNet-STAR)
 
 
 
