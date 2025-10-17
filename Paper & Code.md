@@ -28,6 +28,7 @@
 19. [2025 Arxiv] **Open-vocabulary remote sensing image semantic segmentation.**[[paper]](https://arxiv.org/pdf/2409.07683)
 20. [2025 Arxiv] **SegEarth-OV-2: Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images**[[paper]](https://arxiv.org/abs/2508.18067)[[code]](https://github.com/earth-insights/SegEarth-OV-2)
 21. [2025 Arxiv] **ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild** [[paper]](https://arxiv.org/abs/2501.13354) [[code]](https://github.com/waterdisappear/ATRNet-STAR)
+22. [2025 Arxiv] **AlignCLIP: Self-Guided Alignment for Remote Sensing Open-Vocabulary Semantic Segmentation** [[paper]](https://openreview.net/forum?id=hpD3tn7Xbp) [[code]](https://openreview.net/attachment?id=hpD3tn7Xbp&name=supplementary_material)
 
 
 
