@@ -54,7 +54,7 @@
 >注：需要去看5种自适应方法的设计
 
 **2025.10.18---ALIGNCLIP：用于遥感开放词汇语义分割的自引导对齐（缓解跨模态不匹配问题）**
-[2025 Arxiv] **AlignCLIP: Self-Guided Alignment for Remote Sensing Open-Vocabulary Semantic Segmentation** [[paper]](https://openreview.net/forum?id=hpD3tn7Xbp) [[code]](https://openreview.net/attachment?id=hpD3tn7Xbp&name=supplementary_material)
+1. [2025 Arxiv] **AlignCLIP: Self-Guided Alignment for Remote Sensing Open-Vocabulary Semantic Segmentation** [[paper]](https://openreview.net/forum?id=hpD3tn7Xbp) [[code]](https://openreview.net/attachment?id=hpD3tn7Xbp&name=supplementary_material)
 >笔记：SGA模块： 接收文本特征和图像块特征，它会从图像块特征中选择最能代表每个类别的视觉原型(遥感图像中同类物体特征的紧凑性，可以从目标图像本身中找到一个“最可靠”的视觉原型来代表某个类别)，并用这些原型来优化原始的文本特征，生成对齐特征，对齐后的文本特征与原始的图像块特征进行匹配（通常通过计算余弦相似度）,最终生成逻辑图
 >
 >聚类约束增强（CCE）模块：聚了还要约束，使用聚了之后的区域掩码对原始图像的特征进行自注意力约束，属于同一簇的图像块之间的相关性被保留，不属于的被抑制
