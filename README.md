@@ -42,3 +42,14 @@
 
 **2025.10.14---**
 1. [2025 Arxiv] **ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild** [[paper]](https://arxiv.org/abs/2501.13354) [[code]](https://github.com/waterdisappear/ATRNet-STAR)
+
+
+ **2025.10.18---少样本自适应基准测试**  
+1. [2025 Arxiv] **Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models**[[paper]](https://arxiv.org/pdf/2510.07135) [[code]](https://github.com/elkhouryk/fewshot_RSVLMs)
+>笔记：1)强大的zero-shot性能并不一定转化为有效的few-shot adaptation，需要在低数据状态下进行专门的评估
+2）没有哪种自适应方法在所有数据集或者backbone上占据明显优势
+3）CLIP-LoRA平均表现良好，但受具体场景的约束，有时候可能是Tip-adapter上更合适
+>
+>笔记：为什么GeoRSCLIP能够体现出良好的性能
+>
+>注：需要去看5种自适应方法的设计
