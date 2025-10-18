@@ -30,7 +30,8 @@
 21. [2025 Arxiv] **ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild** [[paper]](https://arxiv.org/abs/2501.13354) [[code]](https://github.com/waterdisappear/ATRNet-STAR)
 22. [2025 Arxiv] **AlignCLIP: Self-Guided Alignment for Remote Sensing Open-Vocabulary Semantic Segmentation** [[paper]](https://openreview.net/forum?id=hpD3tn7Xbp) [[code]](https://openreview.net/attachment?id=hpD3tn7Xbp&name=supplementary_material)
 23. [2025 Arxiv] **Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models**[[paper]](https://arxiv.org/pdf/2510.07135) [[code]](https://github.com/elkhouryk/fewshot_RSVLMs)
-
+24. [2025 Arxiv] **Efficient Few-Shot Learning in Remote Sensing: Fusing Vision and Vision-Language Models**[[paper]](https://arxiv.org/abs/2510.13993)
+25. [2025 RSE] **Strategic sampling for training a semantic segmentation model in operational mapping: Case studies on cropland parcel extraction**[[paper]](https://doi.org/10.1016/j.rse.2025.115034) [[code]](https://github.com/Remote-Sensing-of-Land-Resource-Lab/Training-Sample-Selection)
 
 
 <a name="Training_Free"></a>
