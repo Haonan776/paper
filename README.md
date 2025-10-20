@@ -77,6 +77,11 @@
 >疑问：如果引入 SAM，可以先利用 OWLv2识别出地面视图图像中的目标区域，然后将这些区域作为 SAM 的提示 ，SAM 接着可以为这些目标生成更精确的分割掩码，这些高质量的分割掩码可以被转换为更精确的边界框，或者直接作为更丰富的区域表示，从而提高地面视图伪标签的准确性和细粒度。或者在box-head预测出边界框，将这些边界框作为SAM的提示，对航拍图像进行精确的分割，提供更精确的物体特征给分类损失，提高分类精度？
 
 
+**2025.10.19---**
+1. [2025 RSE] **Strategic sampling for training a semantic segmentation model in operational mapping: Case studies on cropland parcel extraction**[[paper]](https://doi.org/10.1016/j.rse.2025.115034) [[code]](https://github.com/Remote-Sensing-of-Land-Resource-Lab/Training-Sample-Selection)
+
+
+
 
 
 
