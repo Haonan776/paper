@@ -32,6 +32,7 @@
 23. [2025 Arxiv] **Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models**[[paper]](https://arxiv.org/pdf/2510.07135) [[code]](https://github.com/elkhouryk/fewshot_RSVLMs)
 24. [2025 Arxiv] **Efficient Few-Shot Learning in Remote Sensing: Fusing Vision and Vision-Language Models**[[paper]](https://arxiv.org/abs/2510.13993)
 25. [2025 RSE] **Strategic sampling for training a semantic segmentation model in operational mapping: Case studies on cropland parcel extraction**[[paper]](https://doi.org/10.1016/j.rse.2025.115034) [[code]](https://github.com/Remote-Sensing-of-Land-Resource-Lab/Training-Sample-Selection)
+26. [2025 CVMJ] **Remote sensing tuning: A survey**[[paper]](https://ieeexplore.ieee.org/document/11119145)[[paper]](https://github.com/DongshuoYin/Remote-Sensing-Tuning-A-Survey)
 
 
 <a name="Training_Free"></a>
