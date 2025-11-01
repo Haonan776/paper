@@ -33,6 +33,8 @@
 24. [2025 Arxiv] **Efficient Few-Shot Learning in Remote Sensing: Fusing Vision and Vision-Language Models**[[paper]](https://arxiv.org/abs/2510.13993)
 25. [2025 RSE] **Strategic sampling for training a semantic segmentation model in operational mapping: Case studies on cropland parcel extraction**[[paper]](https://doi.org/10.1016/j.rse.2025.115034) [[code]](https://github.com/Remote-Sensing-of-Land-Resource-Lab/Training-Sample-Selection)
 26. [2025 CVMJ] **Remote sensing tuning: A survey**[[paper]](https://ieeexplore.ieee.org/document/11119145)[[paper]](https://github.com/DongshuoYin/Remote-Sensing-Tuning-A-Survey)
+27. [2025 ISPRS] **AdaptVFMs-RSCD:Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP** [[paper]](https://www.sciencedirect.com/science/article/pii/S0924271625003636) [[data]](https://github.com/Jiang-CHD-YunNan/RS-VFMs-Fine-tuning-Dataset)
+28. [2025 NatureMI] **A semantic-enhanced multi-modal remote sensing foundation model for Earth observation** [[paper]](https://www.nature.com/articles/s42256-025-01078-8)
 
 
 <a name="Training_Free"></a>
@@ -69,6 +71,7 @@
 9. [2025 CVPR] **SPARC: Score Prompting and Adaptive Fusion for Zero-Shot Multi-Label Recognition in Vision-Language Models.** [[paper]](https://arXiv.org/pdf/2502.16911?) [[code]](https://github.com/kjmillerCURIS/SPARC)
 10. [2025 CVPR] **LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2503.19777) [[code]](https://github.com/vladan-stojnic/LPOSS/tree/main)
 11. [2025 arXiv] **One Patch to Caption Them All: A Unified Zero-Shot Captioning Framework** [[paper]](https://arxiv.org/pdf/2510.02898v1) [[code]](https://paciosoft.com/Patch-ioner/)
+12. [2024 NIPS] **Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts** [[paper]](https://arxiv.org/pdf/2410.05963)
 
 
 <a name="Segmentation_and_Detection"></a>
