@@ -1,8 +1,9 @@
 # Content
 1. [[Remote Sensing](#Remote_Sensing)]
-2. [[Training Free Segmentation](#Training_Free)]
-3. [[segmentation and detection](#Segmentation_and_Detection)]
-4. [[Open vocabulary](#open_vocabulary)]
+2. [[SAM](#SAM)]
+3. [[Training Free Segmentation](#Training_Free)]
+4. [[segmentation and detection](#Segmentation_and_Detection)]
+5. [[Open vocabulary](#open_vocabulary)]
 
 
 <a name="Remote_Sensing"></a> 
@@ -34,8 +35,12 @@
 25. [2025 RSE] **Strategic sampling for training a semantic segmentation model in operational mapping: Case studies on cropland parcel extraction**[[paper]](https://doi.org/10.1016/j.rse.2025.115034) [[code]](https://github.com/Remote-Sensing-of-Land-Resource-Lab/Training-Sample-Selection)
 26. [2025 CVMJ] **Remote sensing tuning: A survey**[[paper]](https://ieeexplore.ieee.org/document/11119145)[[paper]](https://github.com/DongshuoYin/Remote-Sensing-Tuning-A-Survey)
 27. [2025 ISPRS] **AdaptVFMs-RSCD:Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP** [[paper]](https://www.sciencedirect.com/science/article/pii/S0924271625003636) [[data]](https://github.com/Jiang-CHD-YunNan/RS-VFMs-Fine-tuning-Dataset)
-28. [2025 NatureMI] **A semantic-enhanced multi-modal remote sensing foundation model for Earth observation** [[paper]](https://www.nature.com/articles/s42256-025-01078-8)
+29. [2025 NatureMI] **A semantic-enhanced multi-modal remote sensing foundation model for Earth observation** [[paper]](https://www.nature.com/articles/s42256-025-01078-8)
 
+
+<a name="SAM"></a> 
+## SAM
+1. [2025 arXiv] **SAM3-Adapter: Efficient Adaptation of Segment Anything 3 for Camouflage Object Segmentation, Shadow Detection, and Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2511.19425) [[code]](http://tianrun-chen.github.io/SAM-Adaptor/)
 
 <a name="Training_Free"></a>
 ## Training Free Segmentation
