@@ -41,6 +41,10 @@
 <a name="SAM"></a> 
 ## SAM
 1. [2025 arXiv] **SAM3-Adapter: Efficient Adaptation of Segment Anything 3 for Camouflage Object Segmentation, Shadow Detection, and Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2511.19425) [[code]](http://tianrun-chen.github.io/SAM-Adaptor/)
+2. [2025 arXiv] **SAM3-I: Segment Anything with Instructions** [[paper]](https://arxiv.org/html/2512.04585v1)
+
+
+
 
 <a name="Training_Free"></a>
 ## Training Free Segmentation
