@@ -65,7 +65,6 @@
 14. [2024 CVPR] **GEM: Grounding Everything: Emerging Localization Properties in Vision-Language Transformers.** [[paper]](https://arXiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 15. [2025 CVPR] **ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements.** [[paper]](https://arXiv.org/pdf/2411.12044) [[code]](https://github.com/m-arda-aydn/ITACLIP)
 16. [] **Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification** [[paper]](https://arxiv.org/pdf/2207.09519)
-17. [2025 CVPR] **SSR: Semantic and Spatial Rectification for CLIP-based Weakly Supervised Segmentation** [[paper]](https://arXiv.org/pdf/2512.01701)
 
 
 
@@ -82,6 +81,7 @@
 10. [2025 CVPR] **LOPSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation.** [[paper]](https://arXiv.org/pdf/2503.19777) [[code]](https://github.com/vladan-stojnic/LPOSS/tree/main)
 11. [2025 arXiv] **One Patch to Caption Them All: A Unified Zero-Shot Captioning Framework** [[paper]](https://arxiv.org/pdf/2510.02898v1) [[code]](https://paciosoft.com/Patch-ioner/)
 12. [2024 NIPS] **Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts** [[paper]](https://arxiv.org/pdf/2410.05963)
+13. [2025 arxiv] **SSR: Semantic and Spatial Rectification for CLIP-based Weakly Supervised Segmentation** [[paper]](https://arXiv.org/pdf/2512.01701)
 
 
 <a name="Segmentation_and_Detection"></a>
