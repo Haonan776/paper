@@ -36,6 +36,7 @@
 26. [2025 CVMJ] **Remote sensing tuning: A survey**[[paper]](https://ieeexplore.ieee.org/document/11119145)[[paper]](https://github.com/DongshuoYin/Remote-Sensing-Tuning-A-Survey)
 27. [2025 ISPRS] **AdaptVFMs-RSCD:Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP** [[paper]](https://www.sciencedirect.com/science/article/pii/S0924271625003636) [[data]](https://github.com/Jiang-CHD-YunNan/RS-VFMs-Fine-tuning-Dataset)
 29. [2025 NatureMI] **A semantic-enhanced multi-modal remote sensing foundation model for Earth observation** [[paper]](https://www.nature.com/articles/s42256-025-01078-8)
+30. [2025 AAAI] **Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community** [[paper]](https://doi.org/10.1609/aaai.v39i6.32672)[[code]](https://github.com/jaychempan/LAE-DINO)
 
 
 <a name="SAM"></a> 
