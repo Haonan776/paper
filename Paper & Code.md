@@ -43,6 +43,7 @@
 ## SAM
 1. [2025 arXiv] **SAM3-Adapter: Efficient Adaptation of Segment Anything 3 for Camouflage Object Segmentation, Shadow Detection, and Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2511.19425) [[code]](http://tianrun-chen.github.io/SAM-Adaptor/)
 2. [2025 arXiv] **SAM3-I: Segment Anything with Instructions** [[paper]](https://arxiv.org/html/2512.04585v1)
+3. [2025 arXiv] **THE SAM2-TO-SAM3 GAP IN THE SEGMENT ANYTHING MODEL FAMILY: WHY PROMPT-BASED EXPERTISE FAILS IN CONCEPT-DRIVEN IMAGE SEGMENTATION** [[paper]](https://arxiv.org/pdf/2512.06032)[[code]](https://github.com/Applied-AI-Research-Lab/The-SAM2-to-SAM3-Gap-in-the-Segment-Anything-Model-Family)
 
 
 
