@@ -67,6 +67,7 @@
 14. [2024 CVPR] **GEM: Grounding Everything: Emerging Localization Properties in Vision-Language Transformers.** [[paper]](https://arXiv.org/pdf/2312.00878) [[code]](https://github.com/WalBouss/GEM)
 15. [2025 CVPR] **ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements.** [[paper]](https://arXiv.org/pdf/2411.12044) [[code]](https://github.com/m-arda-aydn/ITACLIP)
 16. [] **Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification** [[paper]](https://arxiv.org/pdf/2207.09519)
+17. [2025 CVPR] **DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception** [[paper]](https://arxiv.org/pdf/2505.04410) [[code]](https://github.com/xiaomoguhz/DeCLIP.)
 
 
 
