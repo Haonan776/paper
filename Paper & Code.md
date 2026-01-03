@@ -37,6 +37,8 @@
 27. [2025 ISPRS] **AdaptVFMs-RSCD:Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP** [[paper]](https://www.sciencedirect.com/science/article/pii/S0924271625003636) [[data]](https://github.com/Jiang-CHD-YunNan/RS-VFMs-Fine-tuning-Dataset)
 29. [2025 NatureMI] **A semantic-enhanced multi-modal remote sensing foundation model for Earth observation** [[paper]](https://www.nature.com/articles/s42256-025-01078-8)
 30. [2025 AAAI] **Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community** [[paper]](https://doi.org/10.1609/aaai.v39i6.32672)[[code]](https://github.com/jaychempan/LAE-DINO)
+31. [2025 Arxiv] **iLaCD-R1: A Vision-Language Framework for Semantic Change Detection in Remote Sensing** [[paper]](https://arxiv.org/pdf/2512.23244)
+32. [2025 TPAMI] **REST: Holistic Learning for End-to-End Semantic Segmentation of Whole-Scene Remote Sensing Imagery** [[paper]](https://doi.org/10.1109/TPAMI.2025.3609767)[[code]](https://weichenrs.github.io/REST)
 
 
 <a name="SAM"></a> 
