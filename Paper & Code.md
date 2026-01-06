@@ -1,9 +1,10 @@
 # Content
-1. [[Remote Sensing](#Remote_Sensing)]
-2. [[SAM](#SAM)]
-3. [[Training Free Segmentation](#Training_Free)]
-4. [[segmentation and detection](#Segmentation_and_Detection)]
-5. [[Open vocabulary](#open_vocabulary)]
+1. [[Remote Sensing](#Laplacian)]
+2. [[Laplacian](#Remote_Sensing)]
+3. [[SAM](#SAM)]
+4. [[Training Free Segmentation](#Training_Free)]
+5. [[segmentation and detection](#Segmentation_and_Detection)]
+6. [[Open vocabulary](#open_vocabulary)]
 
 
 <a name="Remote_Sensing"></a> 
@@ -39,6 +40,14 @@
 30. [2025 AAAI] **Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community** [[paper]](https://doi.org/10.1609/aaai.v39i6.32672)[[code]](https://github.com/jaychempan/LAE-DINO)
 31. [2025 Arxiv] **iLaCD-R1: A Vision-Language Framework for Semantic Change Detection in Remote Sensing** [[paper]](https://arxiv.org/pdf/2512.23244)
 32. [2025 TPAMI] **REST: Holistic Learning for End-to-End Semantic Segmentation of Whole-Scene Remote Sensing Imagery** [[paper]](https://doi.org/10.1109/TPAMI.2025.3609767)[[code]](https://weichenrs.github.io/REST)
+
+
+
+****
+## Laplacian
+1. [2020 ICML] **Laplacian Regularized Few-Shot Learning** [[paper]](https://arxiv.org/abs/2006.15486))
+2. [2022 CVPR] **Parameter-free Online Test-time Adaptation** [[paper]](https://arxiv.org/abs/2201.05718)([[code]](https://github.com/fiveai/LAME))
+3. [2023 CVPR] **Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement** [[paper]](https://arxiv.org/abs/2304.11598)([[code]](https://github.com/allenhaozhu/protoLP)
 
 
 <a name="SAM"></a> 
