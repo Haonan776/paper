@@ -135,6 +135,9 @@
 12. [2025 CVPR] **DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception.** [[paper]](https://arXiv.org/pdf/2505.04410) [[code]](https://github.com/xiaomoguhz/DeCLIP)
 13. [2025 arXiv] **REFAM: Attention magnets for zero-shot referral segmentaion** [[paper]](https://arxiv.org/pdf/2509.22650v1)
 
+### Weakly Supervised
+1. [2025 AAAI] **MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2412.11076) [[code]](https://github.com/zwyang6/MoRe)
+
 
 ### object detection
 1. [2021 CVPR] **Open-Vocabulary Object Detection Using Captions.** [[paper]](https://arXiv.org/pdf/2011.10678) [[code]](https://github.com/alirezazareian/ovr-cnn)
@@ -146,6 +149,7 @@
 
 ## Others
 1. [2025 arxiv] **The Prism Hypothesis:Harmonizing Semantic and Pixel Representations via Unified Autoencoding** [[paper]](https://arxiv.org/pdf/2512.19693) [[code]](https://github.com/WeichenFan/UAE)
+
 
 
 
