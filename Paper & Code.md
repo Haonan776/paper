@@ -1,10 +1,11 @@
 # Content
-1. [[Remote Sensing](#Laplacian)]
-2. [[Laplacian](#Remote_Sensing)]
+1. [[Remote Sensing](#Remote_Sensing)]
+2. [[Laplacian](#Laplacian)]
 3. [[SAM](#SAM)]
 4. [[Training Free Segmentation](#Training_Free)]
 5. [[segmentation and detection](#Segmentation_and_Detection)]
 6. [[Open vocabulary](#open_vocabulary)]
+7. [[Others](#Others)]
 
 
 <a name="Remote_Sensing"></a> 
@@ -141,6 +142,10 @@
 3. [2022 CVPR] **GLIP: Grounded Language-Image Pre-training.** [[paper]](https://arXiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP)
 4. [2022 NIPS] **GLIPv2: Unifying Localization and Vision-Language Understanding.** [[paper]](https://arXiv.org/pdf/2206.05836) [[code]](https://github.com/microsoft/GLIP)
 5. [2024 ICCV] **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection** [[paper]](https://arxiv.org/pdf/2303.05499) [[code]](https://github.com/IDEA-Research/GroundingDINO)
+
+
+## Others
+1. [2025 arxiv] **The Prism Hypothesis:Harmonizing Semantic and Pixel Representations via Unified Autoencoding** [[paper]](https://arxiv.org/pdf/2512.19693) [[code]](https://github.com/WeichenFan/UAE)
 
 
 
