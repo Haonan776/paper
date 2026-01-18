@@ -137,7 +137,7 @@
 
 ### Weakly Supervised
 1. [2025 AAAI] **MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2412.11076) [[code]](https://github.com/zwyang6/MoRe)
-2. [2025 AAAI] **Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2503.20826) [[code]](https://github.com/zwyang6/ExCEL)
+2. [2025 CVPR] **Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2503.20826) [[code]](https://github.com/zwyang6/ExCEL)
 
 
 ### object detection
