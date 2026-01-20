@@ -138,6 +138,7 @@
 ### Weakly Supervised
 1. [2025 AAAI] **MoRe: Class Patch Attention Needs Regularization for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2412.11076) [[code]](https://github.com/zwyang6/MoRe)
 2. [2025 CVPR] **Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2503.20826) [[code]](https://github.com/zwyang6/ExCEL)
+3. [2025 CVPR] **POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf) [[code]](https://github.com/jianwang91/POT)
 
 
 ### object detection
