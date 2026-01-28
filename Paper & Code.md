@@ -42,6 +42,7 @@
 31. [2025 Arxiv] **iLaCD-R1: A Vision-Language Framework for Semantic Change Detection in Remote Sensing** [[paper]](https://arxiv.org/pdf/2512.23244)
 32. [2025 TPAMI] **REST: Holistic Learning for End-to-End Semantic Segmentation of Whole-Scene Remote Sensing Imagery** [[paper]](https://doi.org/10.1109/TPAMI.2025.3609767)[[code]](https://weichenrs.github.io/REST)
 33. [2025 CVPR] **Boosting Domain Incremental Learning:Selecting the Optimal Parameters is All You Need** [[paper]](https://arxiv.org/pdf/2505.23744)[[code]](https://github.com/qwangcv/SOYO))
+34. [2026 Arxiv] **OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3** [[paper]](https://arxiv.org/pdf/2601.13895v1)
 
 
 
