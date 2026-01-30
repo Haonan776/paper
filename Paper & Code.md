@@ -43,6 +43,7 @@
 32. [2025 TPAMI] **REST: Holistic Learning for End-to-End Semantic Segmentation of Whole-Scene Remote Sensing Imagery** [[paper]](https://doi.org/10.1109/TPAMI.2025.3609767)[[code]](https://weichenrs.github.io/REST)
 33. [2025 CVPR] **Boosting Domain Incremental Learning:Selecting the Optimal Parameters is All You Need** [[paper]](https://arxiv.org/pdf/2505.23744)[[code]](https://github.com/qwangcv/SOYO))
 34. [2026 Arxiv] **OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3** [[paper]](https://arxiv.org/pdf/2601.13895v1)
+35. [2025 TGRS]**TPOV-Seg: Textually Enhanced Prompt Tuning ofVision-Language Models for Open-Vocabulary Remote Sensing Semantic Segmentation**[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11215798)[[code]](https://github.com/zxk688/TPOVSeg)
 
 
 
