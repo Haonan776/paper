@@ -46,6 +46,15 @@
 35. [2025 TGRS]**TPOV-Seg: Textually Enhanced Prompt Tuning ofVision-Language Models for Open-Vocabulary Remote Sensing Semantic Segmentation**[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11215798)[[code]](https://github.com/zxk688/TPOVSeg)
 
 
+## object detection
+1. [2021 CVPR] **Open-Vocabulary Object Detection Using Captions.** [[paper]](https://arXiv.org/pdf/2011.10678) [[code]](https://github.com/alirezazareian/ovr-cnn)
+2. [2022 ICLR] **ViLD: Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation.** [[paper]](https://arXiv.org/pdf/2104.13921) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
+3. [2022 CVPR] **GLIP: Grounded Language-Image Pre-training.** [[paper]](https://arXiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP)
+4. [2022 NIPS] **GLIPv2: Unifying Localization and Vision-Language Understanding.** [[paper]](https://arXiv.org/pdf/2206.05836) [[code]](https://github.com/microsoft/GLIP)
+5. [2024 ICCV] **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection** [[paper]](https://arxiv.org/pdf/2303.05499) [[code]](https://github.com/IDEA-Research/GroundingDINO)
+
+
+
 
 ****
 ## Laplacian
@@ -144,13 +153,6 @@
 2. [2025 CVPR] **Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation** [[paper]](https://arxiv.org/pdf/2503.20826) [[code]](https://github.com/zwyang6/ExCEL)
 3. [2025 CVPR] **POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf) [[code]](https://github.com/jianwang91/POT)
 
-
-### object detection
-1. [2021 CVPR] **Open-Vocabulary Object Detection Using Captions.** [[paper]](https://arXiv.org/pdf/2011.10678) [[code]](https://github.com/alirezazareian/ovr-cnn)
-2. [2022 ICLR] **ViLD: Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation.** [[paper]](https://arXiv.org/pdf/2104.13921) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
-3. [2022 CVPR] **GLIP: Grounded Language-Image Pre-training.** [[paper]](https://arXiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP)
-4. [2022 NIPS] **GLIPv2: Unifying Localization and Vision-Language Understanding.** [[paper]](https://arXiv.org/pdf/2206.05836) [[code]](https://github.com/microsoft/GLIP)
-5. [2024 ICCV] **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection** [[paper]](https://arxiv.org/pdf/2303.05499) [[code]](https://github.com/IDEA-Research/GroundingDINO)
 
 
 ## Others
