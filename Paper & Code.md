@@ -1,6 +1,6 @@
 # Content
 1. [[Remote Sensing](#Remote_Sensing)]
-2. [[infrared Small Target Detection](#infrared_small_target_detection)]
+2. [[infrared Small Target Detection](#infrared_Small_target_detection)]
 3. [[Laplacian](#Laplacian)]
 4. [[SAM](#SAM)]
 5. [[Training Free Segmentation](#Training_Free)]
