@@ -1,6 +1,6 @@
 # Content
 1. [[Remote Sensing](#Remote_Sensing)]
-2. [[infrared Small Target Detection](#infrared_Small_target_detection)]
+2. [[infrared Small Target Detection](#infrared_Small_Target_Detection)]
 3. [[Laplacian](#Laplacian)]
 4. [[SAM](#SAM)]
 5. [[Training Free Segmentation](#Training_Free)]
@@ -53,7 +53,7 @@
 3. [2025 TGRS] **Weakly Supervised Contrastive Learning With Quantity Prompts for Moving Infrared Small Target Detection** [[paper]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4Lf9RqQAAAAJ&citation_for_view=4Lf9RqQAAAAJ:QIV2ME_5wuYC)[[code]](https://github.com/UESTC-nnLab/WeCoL)
 
 
-## object detectionss
+## object detections
 1. [2021 CVPR] **Open-Vocabulary Object Detection Using Captions.** [[paper]](https://arXiv.org/pdf/2011.10678) [[code]](https://github.com/alirezazareian/ovr-cnn)
 2. [2022 ICLR] **ViLD: Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation.** [[paper]](https://arXiv.org/pdf/2104.13921) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
 3. [2022 CVPR] **GLIP: Grounded Language-Image Pre-training.** [[paper]](https://arXiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP)
