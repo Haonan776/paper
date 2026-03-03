@@ -1,11 +1,12 @@
 # Content
 1. [[Remote Sensing](#Remote_Sensing)]
-2. [[Laplacian](#Laplacian)]
-3. [[SAM](#SAM)]
-4. [[Training Free Segmentation](#Training_Free)]
-5. [[segmentation and detection](#Segmentation_and_Detection)]
-6. [[Open vocabulary](#open_vocabulary)]
-7. [[Others](#Others)]
+2. [[infrared Small Target Detection](#infrared Small Target Detection)]
+3. [[Laplacian](#Laplacian)]
+4. [[SAM](#SAM)]
+5. [[Training Free Segmentation](#Training_Free)]
+6. [[segmentation and detection](#Segmentation_and_Detection)]
+7. [[Open vocabulary](#open_vocabulary)]
+8. [[Others](#Others)]
 
 
 <a name="Remote_Sensing"></a> 
@@ -46,7 +47,13 @@
 35. [2025 TGRS]**TPOV-Seg: Textually Enhanced Prompt Tuning ofVision-Language Models for Open-Vocabulary Remote Sensing Semantic Segmentation**[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11215798)[[code]](https://github.com/zxk688/TPOVSeg)
 
 
-## object detection
+## infrared Small Target Detection
+1. [2025 CVPR] **SAIST: Segment Any Infrared Small Target Model Guided by Contrastive Language-Image Pretraining** [[paper]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SAIST%3A+Segment+Any+Infrared+Small+Target+Model+Guided+by+Contrastive+Language-Image+Pretraining&btnG=)
+2. [2025 AAAI] **Semi-supervised Infrared Small Target Detection with Thermodynamic-Inspired Uneven Perturbation and Confidence Adaptation** [[paper]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Semi-supervised+Infrared+Small+Target+Detection+with+Thermodynamic-Inspired+Uneven+Perturbation+and+Confidence+Adaptation&btnG=)
+3. [2025 TGRS] **Weakly Supervised Contrastive Learning With Quantity Prompts for Moving Infrared Small Target Detection** [[paper]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4Lf9RqQAAAAJ&citation_for_view=4Lf9RqQAAAAJ:QIV2ME_5wuYC)[[code]](https://github.com/UESTC-nnLab/WeCoL)
+
+
+## object detectionss
 1. [2021 CVPR] **Open-Vocabulary Object Detection Using Captions.** [[paper]](https://arXiv.org/pdf/2011.10678) [[code]](https://github.com/alirezazareian/ovr-cnn)
 2. [2022 ICLR] **ViLD: Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation.** [[paper]](https://arXiv.org/pdf/2104.13921) [[code]](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)
 3. [2022 CVPR] **GLIP: Grounded Language-Image Pre-training.** [[paper]](https://arXiv.org/pdf/2112.03857) [[code]](https://github.com/microsoft/GLIP)
