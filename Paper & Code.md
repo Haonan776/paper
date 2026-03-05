@@ -100,6 +100,7 @@
 16. [] **Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification** [[paper]](https://arxiv.org/pdf/2207.09519)
 17. [2025 CVPR] **DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception** [[paper]](https://arxiv.org/pdf/2505.04410) [[code]](https://github.com/xiaomoguhz/DeCLIP.)
 18. [2026 arxiv] **NERVE: Neighbourhood & Entropy-guided Random-walk for training free open-Vocabulary sEgmentation**[[paper]](https://arxiv.org/pdf/2511.08248) [[code]](https://github.com/kunal-mahatha/nerve/)
+19. [2021 CVPR]**Pointly-Supervised Instance Segmentation**[[paper]](https://arxiv.org/pdf/2104.06404)
 
 
 
