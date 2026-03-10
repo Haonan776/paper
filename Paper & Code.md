@@ -51,6 +51,7 @@
 1. [2025 CVPR] **SAIST: Segment Any Infrared Small Target Model Guided by Contrastive Language-Image Pretraining** [[paper]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SAIST%3A+Segment+Any+Infrared+Small+Target+Model+Guided+by+Contrastive+Language-Image+Pretraining&btnG=)
 2. [2025 AAAI] **Semi-supervised Infrared Small Target Detection with Thermodynamic-Inspired Uneven Perturbation and Confidence Adaptation** [[paper]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Semi-supervised+Infrared+Small+Target+Detection+with+Thermodynamic-Inspired+Uneven+Perturbation+and+Confidence+Adaptation&btnG=)
 3. [2025 TGRS] **Weakly Supervised Contrastive Learning With Quantity Prompts for Moving Infrared Small Target Detection** [[paper]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4Lf9RqQAAAAJ&citation_for_view=4Lf9RqQAAAAJ:QIV2ME_5wuYC)[[code]](https://github.com/UESTC-nnLab/WeCoL)
+4. [2025 arxiv]**From Easy to Hard: Progressive Active Learning Framework for Infrared Small Target Detection with Single Point Supervision**[[paper]](https://arxiv.org/pdf/2412.11154)[[code]](https://github.com/YuChuang1205/PAL)
 
 
 ## object detections
